@@ -1,3 +1,4 @@
+## Programming Assignment2 by lawtse.
 ## Put comments here that give an overall description of what your
 ## functions do: 
 ## The two functions below cache the inverse of a matrix.
